@@ -49,7 +49,6 @@ The project adopts a qualitative and policy-oriented research approach based on:
 - Conference observations and expert discussions
 - Government reports and policy documents
 - Academic literature review
-- SWOT Analysis
 - Stakeholder Analysis
 - Strategic Framework Assessment
 
